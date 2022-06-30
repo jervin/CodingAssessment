@@ -1,7 +1,7 @@
 # CodingAssessment
 Take home assessment for Hypori's server team
 
-Exercise Expose an API for querying against a dataset:
+Exercise - Expose an API for querying against a dataset:
 The goal of this exercise is to design a read only API (REST or otherwise) that returns one or more records from one of the static datasets under the datasets directory (either 2vr3-k9wn.json or y77d-th95.json).  It is also a goal to be able to run this as a spring boot application.
 
 Depending on the dataset you choose we want to be able to query based on the available fields. For instance:
