@@ -6,7 +6,7 @@ The goal of this exercise is to design a read only API (REST or otherwise) that 
 
 Depending on the dataset you choose (you only need to choose one) we want to be able to query based on the available fields. For instance:
 * list the data based on one or more fields/attributes (e.g. /nearearthasteroid?h_mag[gte]20&&orbit_class[eq]Apollo) - 2vr3-k9wn.json
-* Be able to fetch a single record via a GET request (e.g. /meteorite_impact?id=448) - y77d-th95.jsonXS
+* Be able to fetch a single record via a GET request (e.g. /meteorite_impact?id=448) - y77d-th95.json
 
 Note:
 * The examples above are not a contract, feel free to design the URL structure and modify the json schema in a way that you think creates the best client experience.
